@@ -1,5 +1,6 @@
 import Web3 from "web3";
 import votingArtifact from "../../build/contracts/Voting.json";
+import './styles.css'
 
 let candidates = {"Rama": "candidate-1", "Nick": "candidate-2", "Jose": "candidate-3"}
 
@@ -86,3 +87,7 @@ window.addEventListener("load", function() {
   App.start();
 });
 
+$(window).on("load resize ", function() {
+  var scrollWidth = $('.tbl-content').width() - $('.tbl-content table').width();
+  $('.tbl-header').css({'padding-right':scrollWidth});
+}).resize();
