@@ -16,6 +16,8 @@
     "webpack-dev-server": "^3.9.0"
   },
   "dependencies": {
+    "develop": "^1.0.0",
+    "migrate": "^1.7.0",
     "web3": "^1.2.4"
   }
 }
