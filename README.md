@@ -10,6 +10,7 @@
 которое сможет решать важную проблему эффективного взаимодействия людей.
 
 ————
+
 Hello. I am Egor Krasilnikov.
 I'm interested in two things: economy and developing.
 
