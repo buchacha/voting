@@ -1,0 +1,28 @@
+{
+  "name": "voting-app",
+  "version": "1.0.0",
+  "description": "Full stack blockchain voting web application",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "css-loader": "^4.2.1",
+    "style-loader": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buchacha/voting.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Egor Krasilnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buchacha/voting/issues"
+  },
+  "homepage": "https://github.com/buchacha/voting#readme"
+}
