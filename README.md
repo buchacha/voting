@@ -9,5 +9,5 @@
 В будущем, я бы хотел создать приложение по модели Dapp (decentralised application), 
 которое сможет решать важную проблему эффективного взаимодействия людей.
 
-![alt-text](https://github.com/buchacha/voting/tenor.gif)
+![alt-text](https://github.com/buchacha/voting/blob/master/tenor.gif)
 
