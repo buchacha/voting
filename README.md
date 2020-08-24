@@ -21,5 +21,5 @@ This application would solve important problem of effective social interaction.
 
 Just contact me on gmail if you want to cooperate: egor322129@gmail.com
 
-![alt-text](https://github.com/buchacha/voting/blob/master/tenor.gif)
+<img align="right" width="100" height="100" src="https://github.com/buchacha/voting/blob/master/tenor.gif">
 
